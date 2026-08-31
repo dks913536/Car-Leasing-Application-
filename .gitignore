@@ -1,0 +1,16 @@
+target/
+*.class
+*.log
+
+.idea/
+*.iml
+
+.mvn/wrapper/maven-wrapper.jar
+
+logs/
+tmp/
+
+.env
+*.env
+
+docker/mysql/data/
