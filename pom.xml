@@ -19,20 +19,16 @@
     <description>Microservice based Car Leasing Application</description>
     <packaging>pom</packaging>
 
-    <!--
-        Modules will be added one by one.
-        Do not uncomment a module until that service folder has its own pom.xml.
 
         <modules>
             <module>auth-service</module>
-            <module>discovery-service</module>
-            <module>vehicle-service</module>
-            <module>customer-service</module>
-            <module>quotation-service</module>
-            <module>corporate-service</module>
-            <module>api-gateway</module>
+            <module>Discovery-Service</module>
+            <module>Vehicle-Service</module>
+            <module>Customer-Service</module>
+            <module>Quotation-Service</module>
+            <module>Corporate-Service</module>
+            <module>API-Gateway</module>
         </modules>
-    -->
 
     <properties>
         <java.version>21</java.version>
